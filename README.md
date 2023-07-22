@@ -7,3 +7,6 @@
 
 
 ![img](https://github.com/emirkvrak/SnakeGame/blob/main/GitReadmeResim/GitSankeGame2.png)
+
+
+![img](https://github.com/emirkvrak/SnakeGame/blob/main/GitReadmeResim/GitSankeGame2.png)
