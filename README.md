@@ -2,6 +2,8 @@
 
 * Bu repoda, üniversitede 1. sınıfta yaptığım küçük bir proje olan labirent oyunu kodları bulunmaktadır.
 
+* IDE olarak Apache NetBeans Kullandım.
+
 
 ![img](https://github.com/emirkvrak/MazeGame/blob/main/GitReadmeResim/GitMazeGameResim1.png)
 
